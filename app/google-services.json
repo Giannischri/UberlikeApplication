@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "711872505926",
+    "firebase_url": "https://ecstatic-maxim-264819.firebaseio.com",
+    "project_id": "ecstatic-maxim-264819",
+    "storage_bucket": "ecstatic-maxim-264819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711872505926:android:32e043004fde4c8ed40247",
+        "android_client_info": {
+          "package_name": "com.example.samosgo3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711872505926-jn6tltpam6an5hnlj8tn9mb7ro918gun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samosgo3",
+            "certificate_hash": "efc2ffc51897138fdefd58d02f84e8a4e5629f19"
+          }
+        },
+        {
+          "client_id": "711872505926-nvqbomrj4o9ot6am050r82u8jfht3eog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUJ_NrkBa_anU5THJS4io3lWXhF3XgqTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711872505926-nvqbomrj4o9ot6am050r82u8jfht3eog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
